@@ -87,7 +87,7 @@ function getWeather() {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+ background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
   font-family: "Segoe UI", Tahoma, sans-serif;
   overflow: hidden;
   position: relative;
